@@ -1,6 +1,6 @@
 # Image Captioning with ResNet50 and LSTM
 
-This repository contains a simple yet efficacious image captioning model that utilises a pretrained ResNet50 for image feature extraction and an LSTM for generating captions. The model is trained and validated on the COCO 2017 dataset, demonstrating its capability to generate descriptive captions for images. This project serves as a straightforward example of how to combine CNNs and RNNs for the task of image captioning.
+This repository contains a simple image captioning model that utilises a pretrained ResNet50 for image feature extraction and an LSTM for generating captions. The model is trained and validated on the COCO 2017 dataset, demonstrating its capability to generate descriptive captions for images. This project serves as a straightforward example of how to combine CNNs and RNNs for the task of image captioning.
 
 ## Overview
 
